@@ -4,7 +4,7 @@
 ## 🙋‍♀️ About Me : -
 • I'm currently searching for a full time job as a Data Analyst/Machine Learning Engineer
 
-• I completed Advanced Diploma In Artificial Intelligenc ecourse from Centennial College and Bachelor's in Computer Application
+• I completed Advanced Diploma In Artificial Intelligence ecourse from Centennial College and Bachelor's in Computer Application
 
 • Love Learning new skills
 
