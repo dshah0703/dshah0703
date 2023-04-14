@@ -8,7 +8,7 @@
 
 • Love Learning new skills
 
-• Contributed in Kaggle Competitions and Medium Blogs
+• Contributed in <a href = "https://www.kaggle.com/deva0703" target="_blank"> Kaggle Competitions </a> and <a href="https://medium.com/@devanshis7300" target="_blank"> Medium Blogs </a>
 
 • Received 5⭐ from HackerRank Platform and a **Certified AWS Practitioner**
 
