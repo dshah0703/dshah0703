@@ -23,7 +23,7 @@
 
 •  <a href="https://github.com/dshah0703/Maven_Bicyle_Analysis" target="_blank"> *Bicycle Sales Analysis* </a> - Leveraged Power BI to create a comprehensive sales performance dashboard for Bicycle Sales, utilizing data provided by Maven Analytics to gain insights into key areas such as profits, sales, and top products and customers
 
-•  <a href="https://www.kaggle.com/code/deva0703/eda-tabular-sept-22/notebook" target="_blank"> </a> *Tabular Playground Series - Kaggle (Silver Medal)* - Created a project with Python and a range of libraries, including Pandas, NumPy, Matplotlib, Seaborn, to conduct a comprehensive analysis of Kaggle Book Sales in six different countries over a four- year period
+•  <a href="https://www.kaggle.com/code/deva0703/eda-tabular-sept-22/notebook" target="_blank"> *Tabular Playground Series - Kaggle (Silver Medal)* </a> - Created a project with Python and a range of libraries, including Pandas, NumPy, Matplotlib, Seaborn, to conduct a comprehensive analysis of Kaggle Book Sales in six different countries over a four- year period
 
 •  <a href="https://github.com/dshah0703/whatsapp_chat_analysis" target="_blank"> *WhatsApp Chat Analyzer* </a> -  WhatsApp Chat Analyzer gives an overview of the activities of users and messages shared between individuals as well as in a group.
 
