@@ -4,17 +4,17 @@
 ## 🙋‍♀️ About Me : -
 • I'm currently searching for a full time job as a Data Analyst/Machine Learning Engineer
 
-• I completed Advanced Diploma In Artificial Intelligence ecourse from Centennial College and Bachelor's in Computer Application
+• I graduated from Centennial College with specialization in Artificial Intelligence course and Bachelor's in Computer Application
 
 • Love Learning new skills
 
 • Contributed in <a href = "https://www.kaggle.com/deva0703" target="_blank"> Kaggle Competitions </a> and <a href="https://medium.com/@devanshis7300" target="_blank"> Medium Blogs </a>
 
-• Received 5⭐ from HackerRank Platform and a **Certified AWS Practitioner**
+• Received 5⭐ from HackerRank Platform and a <a href = "https://www.credly.com/badges/78b6f459-801c-461e-a844-df0de6504832/linked_in?t=rs8gq7" target="_blank"> **Certified AWS Practitioner** </a>
 
 
 ## 🔨Skills and Tools:
-• **Tools**: Visual Studio Code, Excel, Spyder, Android Studio,Docker, PyCharm, Anaconda, Tableau, Power BI, AWS, SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
+• **Tools**: Visual Studio Code, Excel, Spyder, Android Studio,Docker, PyCharm, Anaconda, Tableau, Power BI, AWS, SQL Python (Pandas, NumPy); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
 
 • **Skills**:  Critical Thinking; Problem Solving, Strong Verbal and Written Communication
 
