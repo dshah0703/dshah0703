@@ -6,8 +6,6 @@
 
 • I graduated from Centennial College with specialization in Artificial Intelligence course and Bachelor's in Computer Application
 
-• Love Learning new skills
-
 • Contributed in <a href = "https://www.kaggle.com/deva0703" target="_blank"> Kaggle Competitions </a> and <a href="https://medium.com/@devanshis7300" target="_blank"> Medium Blogs </a>
 
 • Received 5⭐ from HackerRank Platform and a <a href = "https://www.credly.com/badges/78b6f459-801c-461e-a844-df0de6504832/linked_in?t=rs8gq7" target="_blank"> **Certified AWS Practitioner** </a>
