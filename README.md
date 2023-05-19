@@ -4,7 +4,7 @@
 ## 🙋‍♀️ About Me : -
 • I'm currently searching for a full time job as a Data Analyst/Machine Learning Engineer
 
-• I graduated from Centennial College with specialization in Artificial Intelligence course and Bachelor's in Computer Application
+• I graduated from Centennial College with specialization in Artificial Intelligence course and Bachelor's in Computer Application from India
 
 • Contributed in <a href = "https://www.kaggle.com/deva0703" target="_blank"> Kaggle Competitions </a> and <a href="https://medium.com/@devanshis7300" target="_blank"> Medium Blogs </a>
 
